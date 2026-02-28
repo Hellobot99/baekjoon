@@ -433,3 +433,10 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/vim,macos,visualstudiocode,pycharm+all,python,java,c++,windows,linux
+
+### Visual Studio ###
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
