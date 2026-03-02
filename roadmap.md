@@ -15,9 +15,9 @@
 | 6 | [20053](https://www.acmicpc.net/problem/20053) | 최소, 최대 2 | Bronze 3 | 구현 | ✅ |
 | 7 | [2581](https://www.acmicpc.net/problem/2581) | 소수 | Bronze 2 | 수학 | ✅ |
 | 8 | [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | Bronze 2 | 구현 | ✅ |
-| 9 | [18312](https://www.acmicpc.net/problem/18312) | 시각 | Bronze 2 | 완전탐색 |  |
-| 10 | [10870](https://www.acmicpc.net/problem/10870) | 피보나치 수 5 | Bronze 2 | DP 1 |  |
-| 11 | [16916](https://www.acmicpc.net/problem/16916) | 부분 문자열 | Bronze 2 | 문자열 |  |
+| 9 | [18312](https://www.acmicpc.net/problem/18312) | 시각 | Bronze 2 | 완전탐색 | ✅ |
+| 10 | [10870](https://www.acmicpc.net/problem/10870) | 피보나치 수 5 | Bronze 2 | DP 1 | ✅ |
+| 11 | [16916](https://www.acmicpc.net/problem/16916) | 부분 문자열 | Bronze 2 | 문자열 | ✅ |
 | 12 | [22864](https://www.acmicpc.net/problem/22864) | 피로도 | Bronze 2 | 수학 |  |
 | 13 | [21918](https://www.acmicpc.net/problem/21918) | 전구 | Bronze 2 | 구현 |  |
 | 14 | [22864](https://www.acmicpc.net/problem/22864) | 피로도 | Bronze 2 | 완전탐색 |  |
