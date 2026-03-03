@@ -20,11 +20,11 @@
 | 11 | [16916](https://www.acmicpc.net/problem/16916) | 부분 문자열 | Bronze 2 | 문자열 | ✅ | 2026-03-02 |
 | 12 | [22864](https://www.acmicpc.net/problem/22864) | 피로도 | Bronze 2 | 수학 | ✅ | 2026-03-03 |
 | 13 | [21918](https://www.acmicpc.net/problem/21918) | 전구 | Bronze 2 | 구현 | ✅ | 2026-03-03 |
-| 14 | [9046](https://www.acmicpc.net/problem/9046) | 복호화 | Bronze 2 | 문자열 |  |  |
-| 15 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | Bronze 2 | 수학 |  |  |
-| 16 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | Bronze 2 | 완전탐색 |  |  |
-| 17 | [16171](https://www.acmicpc.net/problem/16171) | 나는 친구가 적다 (Small) | Bronze 2 | 문자열 |  |  |
-| 18 | [2745](https://www.acmicpc.net/problem/2745) | 진법 변환 | Bronze 2 | 수학 |  |  |
+| 14 | [9046](https://www.acmicpc.net/problem/9046) | 복호화 | Bronze 2 | 문자열 | ✅ | 2026-03-03 |
+| 15 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | Bronze 2 | 수학 | ✅ | 2026-03-03 |
+| 16 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | Bronze 2 | 완전탐색 | ✅ | 2026-03-03 |
+| 17 | [16171](https://www.acmicpc.net/problem/16171) | 나는 친구가 적다 (Small) | Bronze 2 | 문자열 | ✅ | 2026-03-03 |
+| 18 | [2745](https://www.acmicpc.net/problem/2745) | 진법 변환 | Bronze 2 | 수학 | ✅ | 2026-03-03 |
 | 19 | [2798](https://www.acmicpc.net/problem/2798) | 블랙잭 | Bronze 2 | 완전탐색 |  |  |
 | 20 | [5618](https://www.acmicpc.net/problem/5618) | 공약수 | Bronze 2 | 수학 |  |  |
 | 21 | [19532](https://www.acmicpc.net/problem/19532) | 수학은 비대면강의입니다 | Bronze 2 | 완전탐색 |  |  |
