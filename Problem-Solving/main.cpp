@@ -7,64 +7,47 @@
 #include <queue>
 #include <climits>
 #include <string>
+#include <cstring>
 using namespace std;
-
-typedef struct {
-	int h;
-	int m;
-	int s;
-} time_s;
-
-time_s solve(time_s start, time_s end);
 
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	time_s start, end, result;
+	int a, b, c, n, m;
 
-	scanf("%d:%d:%d", &start.h, &start.m, &start.s);
-	scanf("%d:%d:%d", &end.h, &end.m, &end.s);
+	cin >> n >> m;
+	vector<int> v(n + 1, 0);
 
-	result = solve(start, end);
+	for (int i = 1; i <= n; i++) {
+		cin >> v[i];
+	}
 
-	if (result.h < 10) cout << 0;
-	cout << result.h << ":";
-	if (result.m < 10) cout << 0;
-	cout << result.m << ":";
-	if (result.s < 10) cout << 0;
-	cout << result.s;
+	for (int z = 0; z < m; z++) {
+		cin >> a >> b >> c;
+		switch (a) {
+		case 1:
+			v[b] = c;
+			break;
+		case 2:
+			for (int i = b; i <= c; i++) {
+				if (v[i]) v[i] = 0;
+				else v[i] = 1;
+			}
+			break;
+		case 3:
+			for (int i = b; i <= c; i++) v[i] = 0;
+			break;
+		case 4:
+			for (int i = b; i <= c; i++) v[i] = 1;
+			break;
+		}
+	}
+
+	for (int i = 1; i <= n; i++) {
+		cout << v[i] <<  " ";
+	}
 
 	return 0;
-}
-
-time_s solve(time_s start, time_s end) {
-	time_s result;
-
-	if (start.h == end.h && start.m == end.m && start.s == end.s) {
-		result.h = 24;
-		result.m = 0;
-		result.s = 0;
-		return result;
-	}
-
-	end.h += 24;	
-
-	if (end.s < start.s) {
-		end.m--;
-		end.s += 60;
-	}
-	if (end.m < start.m) {
-		end.h--;
-		end.m += 60;
-	}
-
-	result.h = end.h - start.h;
-	result.m = end.m - start.m;
-	result.s = end.s - start.s;
-
-	if (result.h >= 24) result.h -= 24;
-
-	return result;
 }
