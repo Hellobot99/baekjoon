@@ -25,9 +25,9 @@
 | 16 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | Bronze 2 | 완전탐색 | ✅ | 2026-03-03 |
 | 17 | [16171](https://www.acmicpc.net/problem/16171) | 나는 친구가 적다 (Small) | Bronze 2 | 문자열 | ✅ | 2026-03-03 |
 | 18 | [2745](https://www.acmicpc.net/problem/2745) | 진법 변환 | Bronze 2 | 수학 | ✅ | 2026-03-03 |
-| 19 | [2798](https://www.acmicpc.net/problem/2798) | 블랙잭 | Bronze 2 | 완전탐색 |  |  |
-| 20 | [5618](https://www.acmicpc.net/problem/5618) | 공약수 | Bronze 2 | 수학 |  |  |
-| 21 | [19532](https://www.acmicpc.net/problem/19532) | 수학은 비대면강의입니다 | Bronze 2 | 완전탐색 |  |  |
+| 19 | [2798](https://www.acmicpc.net/problem/2798) | 블랙잭 | Bronze 2 | 완전탐색 | ✅ | 2026-04-07 |
+| 20 | [5618](https://www.acmicpc.net/problem/5618) | 공약수 | Bronze 2 | 수학 | ✅ | 2026-04-07 |
+| 21 | [19532](https://www.acmicpc.net/problem/19532) | 수학은 비대면강의입니다 | Bronze 2 | 완전탐색 | ✅ | 2026-04-07 |
 | 22 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 | Bronze 1 | 수학 |  |  |
 | 23 | [14467](https://www.acmicpc.net/problem/14467) | 소가 길을 건너간 이유 1 | Bronze 1 | 구현 |  |  |
 | 24 | [2748](https://www.acmicpc.net/problem/2748) | 피보나치 수 2 | Bronze 1 | DP 1 |  |  |
