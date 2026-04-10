@@ -28,9 +28,9 @@
 | 19 | [2798](https://www.acmicpc.net/problem/2798) | 블랙잭 | Bronze 2 | 완전탐색 | ✅ | 2026-04-07 |
 | 20 | [5618](https://www.acmicpc.net/problem/5618) | 공약수 | Bronze 2 | 수학 | ✅ | 2026-04-07 |
 | 21 | [19532](https://www.acmicpc.net/problem/19532) | 수학은 비대면강의입니다 | Bronze 2 | 완전탐색 | ✅ | 2026-04-07 |
-| 22 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 | Bronze 1 | 수학 |  |  |
-| 23 | [14467](https://www.acmicpc.net/problem/14467) | 소가 길을 건너간 이유 1 | Bronze 1 | 구현 |  |  |
-| 24 | [2748](https://www.acmicpc.net/problem/2748) | 피보나치 수 2 | Bronze 1 | DP 1 |  |  |
+| 22 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 | Bronze 1 | 수학 | ✅ | 2026-04-10 |
+| 23 | [14467](https://www.acmicpc.net/problem/14467) | 소가 길을 건너간 이유 1 | Bronze 1 | 구현 | ✅ | 2026-04-10 |
+| 24 | [2748](https://www.acmicpc.net/problem/2748) | 피보나치 수 2 | Bronze 1 | DP 1 | ✅ | 2026-04-10 |
 | 25 | [10798](https://www.acmicpc.net/problem/10798) | 세로읽기 | Bronze 1 | 문자열 |  |  |
 | 26 | [11653](https://www.acmicpc.net/problem/11653) | 소인수분해 | Bronze 1 | 수학 |  |  |
 | 27 | [20154](https://www.acmicpc.net/problem/20154) | 이 구역의 승자는 누구야?! | Bronze 1 | 문자열 |  |  |
