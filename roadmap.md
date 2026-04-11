@@ -31,8 +31,8 @@
 | 22 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 | Bronze 1 | 수학 | ✅ | 2026-04-10 |
 | 23 | [14467](https://www.acmicpc.net/problem/14467) | 소가 길을 건너간 이유 1 | Bronze 1 | 구현 | ✅ | 2026-04-10 |
 | 24 | [2748](https://www.acmicpc.net/problem/2748) | 피보나치 수 2 | Bronze 1 | DP 1 | ✅ | 2026-04-10 |
-| 25 | [10798](https://www.acmicpc.net/problem/10798) | 세로읽기 | Bronze 1 | 문자열 |  |  |
-| 26 | [11653](https://www.acmicpc.net/problem/11653) | 소인수분해 | Bronze 1 | 수학 |  |  |
+| 25 | [10798](https://www.acmicpc.net/problem/10798) | 세로읽기 | Bronze 1 | 문자열 | ✅ | 2026-04-11 |
+| 26 | [11653](https://www.acmicpc.net/problem/11653) | 소인수분해 | Bronze 1 | 수학 | 🔺 | 2026-04-11 |
 | 27 | [20154](https://www.acmicpc.net/problem/20154) | 이 구역의 승자는 누구야?! | Bronze 1 | 문자열 |  |  |
 | 28 | [1934](https://www.acmicpc.net/problem/1934) | 최소공배수 | Bronze 1 | 수학 |  |  |
 | 29 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | Bronze 1 | 수학 |  |  |
