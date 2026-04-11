@@ -33,10 +33,10 @@
 | 24 | [2748](https://www.acmicpc.net/problem/2748) | 피보나치 수 2 | Bronze 1 | DP 1 | ✅ | 2026-04-10 |
 | 25 | [10798](https://www.acmicpc.net/problem/10798) | 세로읽기 | Bronze 1 | 문자열 | ✅ | 2026-04-11 |
 | 26 | [11653](https://www.acmicpc.net/problem/11653) | 소인수분해 | Bronze 1 | 수학 | 🔺 | 2026-04-11 |
-| 27 | [20154](https://www.acmicpc.net/problem/20154) | 이 구역의 승자는 누구야?! | Bronze 1 | 문자열 |  |  |
-| 28 | [1934](https://www.acmicpc.net/problem/1934) | 최소공배수 | Bronze 1 | 수학 |  |  |
-| 29 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | Bronze 1 | 수학 |  |  |
-| 30 | [5347](https://www.acmicpc.net/problem/5347) | LCM | Silver 5 | 수학 |  |  |
+| 27 | [20154](https://www.acmicpc.net/problem/20154) | 이 구역의 승자는 누구야?! | Bronze 1 | 문자열 | ✅ | 2026-04-11 |
+| 28 | [1934](https://www.acmicpc.net/problem/1934) | 최소공배수 | Bronze 1 | 수학 | ✅ | 2026-04-11 |
+| 29 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | Bronze 1 | 수학 | ✅ | 2026-04-11 |
+| 30 | [5347](https://www.acmicpc.net/problem/5347) | LCM | Silver 5 | 수학 | ✅ | 2026-04-11 |
 | 31 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | 구현 |  |  |
 | 32 | [18511](https://www.acmicpc.net/problem/18511) | 큰 수 구성하기 | Silver 5 | 완전탐색 |  |  |
 | 33 | [14916](https://www.acmicpc.net/problem/14916) | 거스름돈 | Silver 5 | 그리디 |  |  |
