@@ -37,8 +37,8 @@
 | 28 | [1934](https://www.acmicpc.net/problem/1934) | 최소공배수 | Bronze 1 | 수학 | ✅ | 2026-04-11 |
 | 29 | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | Bronze 1 | 수학 | ✅ | 2026-04-11 |
 | 30 | [5347](https://www.acmicpc.net/problem/5347) | LCM | Silver 5 | 수학 | ✅ | 2026-04-11 |
-| 31 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | 구현 |  |  |
-| 32 | [18511](https://www.acmicpc.net/problem/18511) | 큰 수 구성하기 | Silver 5 | 완전탐색 |  |  |
+| 31 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | 구현 | ✅ | 2026-04-12 |
+| 32 | [18511](https://www.acmicpc.net/problem/18511) | 큰 수 구성하기 | Silver 5 | 완전탐색 | ❌ | 2026-04-12 |
 | 33 | [14916](https://www.acmicpc.net/problem/14916) | 거스름돈 | Silver 5 | 그리디 |  |  |
 | 34 | [11728](https://www.acmicpc.net/problem/11728) | 배열 합치기 | Silver 5 | 투 포인터 |  |  |
 | 35 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | Silver 5 | 누적합 |  |  |
