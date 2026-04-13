@@ -39,9 +39,9 @@
 | 30 | [5347](https://www.acmicpc.net/problem/5347) | LCM | Silver 5 | 수학 | ✅ | 2026-04-11 |
 | 31 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | 구현 | ✅ | 2026-04-12 |
 | 32 | [18511](https://www.acmicpc.net/problem/18511) | 큰 수 구성하기 | Silver 5 | 완전탐색 | ❌ | 2026-04-12 |
-| 33 | [14916](https://www.acmicpc.net/problem/14916) | 거스름돈 | Silver 5 | 그리디 |  |  |
-| 34 | [11728](https://www.acmicpc.net/problem/11728) | 배열 합치기 | Silver 5 | 투 포인터 |  |  |
-| 35 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | Silver 5 | 누적합 |  |  |
+| 33 | [14916](https://www.acmicpc.net/problem/14916) | 거스름돈 | Silver 5 | 그리디 | ✅ | 2026-04-13 |
+| 34 | [11728](https://www.acmicpc.net/problem/11728) | 배열 합치기 | Silver 5 | 투 포인터 | ✅ | 2026-04-13 |
+| 35 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | Silver 5 | 누적합 | ✅ | 2026-04-13 |
 | 36 | [1789](https://www.acmicpc.net/problem/1789) | 수들의 합 | Silver 5 | 이분탐색 |  |  |
 | 37 | [1010](https://www.acmicpc.net/problem/1010) | 다리 놓기 | Silver 5 | DP 1 |  |  |
 | 38 | [6550](https://www.acmicpc.net/problem/6550) | 부분 문자열 | Silver 5 | 문자열 |  |  |
